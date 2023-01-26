@@ -2,3 +2,7 @@
 # zahra
 ## I am a junior OMIS major at NIU.
 ###### I am from Naperville, IL.
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
